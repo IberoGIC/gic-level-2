@@ -1,0 +1,1 @@
+En Chrome puedes ver el código fuente de una página con el atajo `Ctrl + U`, o mediante el menú contextual (*click derecho*).
