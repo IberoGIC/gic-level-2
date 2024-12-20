@@ -71,5 +71,5 @@ natas3: passwordPlaceHolder
 Una mala configuración en una página web puede llevar a que archivos sensibles queden disponibles para todo el mundo sin que lo queramos. Debemos cuidar dónde y cómo almacenamos la información sensible (*como contraseñas y usuarios*) dentro de un sitio web.
 
 ---
--,"
+-,"  
 [_P

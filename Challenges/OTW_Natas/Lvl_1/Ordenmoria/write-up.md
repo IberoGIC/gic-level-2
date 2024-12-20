@@ -39,5 +39,5 @@ Nuevamente la contraseña del siguiente nivel se encuentra comentada:
 Este nivel nos obliga a buscar nuevas formas de ver el código fuente, ahora podremos usar estos atajos para analizar los siguientes niveles.
 
 ---
--,"
+-,"  
 [_P

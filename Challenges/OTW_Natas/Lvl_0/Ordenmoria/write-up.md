@@ -31,5 +31,5 @@ La contraseña del siguiente nivel se encuentra comentada:
 Este nivel introduce conceptos fundamentales sobre la inspección de código fuente. Familiarizarnos con estas capacidades del navegador web es importante, ya que será lo primero que revisemos para próximos niveles.
 
 ---
--,"
+-,"  
 [_P
