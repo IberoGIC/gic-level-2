@@ -1,0 +1,1 @@
+Investiga sobre vulnerabilidades de **Inclusión de Archivos Locales (LFI)** y cómo podrías aprovecharlas para acceder a archivos sensibles.
