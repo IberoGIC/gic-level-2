@@ -40,7 +40,7 @@ Aquí inferimos la siguiente distribución del directorio:
 
 Modificamos el URL para ingresar al directorio `files/` en búsqueda de la contraseña: http://natas2.natas.labs.overthewire.org/files
 
-Se nos muestra en contenido del directorio:
+Se nos muestra el contenido del directorio:
 ```
 ↩ Parent Directory
 	pixel.png
