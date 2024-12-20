@@ -19,7 +19,7 @@ Al completar este nivel, serás capaz de:
 
 Este nivel está compuesto por varios retos prácticos organizados en carpetas. A continuación, se listan los principales retos asignados:
 
-1. **OverTheWire Natas***
+1. **OverTheWire Natas**
     - Desafío: Identificar y explotar vulnerabilidades web.
     - Ubicación: `Challenges/OTW_Natas/`
 2. **Pico CTF** 

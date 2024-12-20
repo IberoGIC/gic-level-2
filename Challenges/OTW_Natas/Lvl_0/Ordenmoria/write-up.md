@@ -1,4 +1,4 @@
-La página web muestra el texto `You can find the password for the next level on this page`. Inspeccionando el código fuente de la página con `Ctrl + U` o usando `Ctrl + Shift + I` vemos el siguiente archivo html:
+La página web muestra el texto `You can find the password for the next level on this page`. Inspeccionando el código fuente de la página con *clic derecho > Ver código fuente*, vemos el siguiente archivo html:
 
 ```html
 <html>
