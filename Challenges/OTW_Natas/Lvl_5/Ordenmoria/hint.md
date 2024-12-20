@@ -1,0 +1,1 @@
+Además de los encabezados HTTP, existen pequeños fragmentos de datos que el navegador guarda para recordar tu sesión llamados *cookies* 🍪. Puedes revisarlas en el Inspector dentro de la sección *Aplicación*.
