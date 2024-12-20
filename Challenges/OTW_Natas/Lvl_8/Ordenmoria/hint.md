@@ -1,0 +1,1 @@
+Entender cómo trabaja una función te puede dar pistas sobre cómo deshacer sus operaciones. Analiza el orden de las operaciones aplicadas a la cadena y considera si puedes revertirlas paso a paso.
