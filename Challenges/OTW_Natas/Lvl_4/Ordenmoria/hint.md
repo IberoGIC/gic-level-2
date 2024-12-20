@@ -1,0 +1,1 @@
+Los navegadores envían información adicional al realizar solicitudes web, como la URL desde dónde envías la solicitud. Revisa los encabezados HTTP con el Inspector de Red en Chrome, puedes usar el atajo `Ctrl + Shift + I`.
