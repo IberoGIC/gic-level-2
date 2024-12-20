@@ -1,0 +1,1 @@
+Observa cómo se incluye la biblioteca en el código. A veces, los archivos internos pueden ser accesibles directamente si no están correctamente protegidos. 
