@@ -1,0 +1,1 @@
+Un sitio web no se limita solo a la página principal (`index.html`), suele incluir otros archivos y recursos, similar a un directorio que contiene múltiples elementos.
