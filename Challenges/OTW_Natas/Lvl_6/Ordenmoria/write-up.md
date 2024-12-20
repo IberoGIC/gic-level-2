@@ -25,7 +25,7 @@ Analizando la biblioteca, notamos que se encuentra dentro del directorio `includ
 ├── 📂 includes/
 |   └── secret.inc # Biblioteca que contiene $secret
 |
-└── index.html # La página del nivel
+└── index.php # La página del nivel
 ```
 
 Modificamos el URL para acceder al archivo:
