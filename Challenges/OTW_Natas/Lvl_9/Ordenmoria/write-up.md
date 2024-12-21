@@ -15,17 +15,17 @@ Aquí se reemplaza el valor ingresado en `needle` dentro del comando `grep -i $k
 
 Recordando las instrucciones iniciales de Natas, todos los niveles tienen acceso a la contraseña del nivel siguiente a través de la ruta `/etc/natas_webpass/` y observamos que podemos modificar el valor de `needle` para realizar la búsqueda en esta ruta.
 
-Modificamos `needle` con el valor `. /etc/natas_webpass/natas10#` para devolver el contenido de `/etc/natas_webpass/natas10`, dónde:
+Modificamos `needle` con el valor `. /etc/natas_webpass/natas10 #` para devolver el contenido de `/etc/natas_webpass/natas10`, dónde:
 * `.` hace coincidir todo el texto del archivo.
 * `/etc/natas_webpass/natas10` es la ruta del archivo.
 * `#` comenta el resto de la línea para evitar el contenido de `dictionary.txt`
 
 Obteniendo este comando:
 ```
-grep -i . /etc/natas_webpass/natas10# dictionary.txt
+grep -i . /etc/natas_webpass/natas10 # dictionary.txt
 ```
 
-Al enviar `. /etc/natas_webpass/natas10#` en el formulario vemos la contraseña del nivel siguiente.
+Al enviar `. /etc/natas_webpass/natas10 #` en el formulario vemos la contraseña del nivel siguiente.
 
 ---
 ## **Conclusión**

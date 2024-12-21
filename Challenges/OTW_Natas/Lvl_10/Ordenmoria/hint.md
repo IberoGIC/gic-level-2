@@ -1,0 +1,1 @@
+Aunque algunos caracteres están filtrados, no todos los métodos para manipular el comando están bloqueados. Piensa en cómo puedes reutilizar estrategias de niveles anteriores para resolver este desafío sin necesidad de los caracteres restringidos.
