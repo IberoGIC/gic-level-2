@@ -1,0 +1,1 @@
+Investiga el cifrado XOR y sus propiedades, luego piensa en cómo puedes aprovechar la estructura repetitiva de los datos para obtener la clave utilizada en el cifrado.
