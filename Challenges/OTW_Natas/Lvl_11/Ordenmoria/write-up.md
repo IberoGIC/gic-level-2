@@ -21,7 +21,8 @@ saveData($data);
 *Si modificamos el valor de `showpassword` almacenado en la cookie se mostrará la contraseña.*
 
 Sabiendo el valor original de `$defaultdata` y su valor después del cifrado XOR (`data`), podemos aprovechar las propiedades de la operación para recuperar la `key` usada.
-$$ \begin{align} defaultdata \oplus key = cookie\\ defaultdata \oplus cookie = key \end{align} $$
+
+![Equation](https://quicklatex.com/cache3/63/ql_58f0b2caf3d1ac4087fa9127771d0a63_l3.png)
 
 Recordando que debemos decodificar en Base64 la cookie, y convertir `$defaultdata` a JSON, dada la cadena de cifrado inversa:
 ```
