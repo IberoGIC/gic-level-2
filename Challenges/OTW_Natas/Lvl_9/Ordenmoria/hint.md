@@ -1,0 +1,1 @@
+Observa cómo se construye el comando `grep` con el valor ingresado en `needle`. ¿Podrías modificar el comportamiento del comando cambiando el valor de `needle`?
