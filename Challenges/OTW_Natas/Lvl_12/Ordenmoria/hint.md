@@ -1,0 +1,1 @@
+¿Qué pasaría si el archivo que subes al servidor hiciera algo más que solo mostrarse como imagen? Analiza cómo se manejan los nombres y las extensiones de los archivos.
