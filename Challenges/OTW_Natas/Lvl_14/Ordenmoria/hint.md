@@ -1,0 +1,1 @@
+Analiza cómo el código construye la consulta SQL a partir de los parámetros de entrada. Si puedes manipular esos parámetros, podrías modificar la consulta.
