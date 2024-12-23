@@ -16,7 +16,7 @@ Al dar clic en `Upload File` se nos mostrará el mensaje:
 The file upload/sbds37c38u.php has been uploaded
 ```
 
-Damos clic en el enlace al archivo y se muestra la contraseña del nivel siguiente.
+Damos clic en el enlace al archivo, y se muestra la contraseña del nivel siguiente.
 
 ---
 ## **Conclusión**
