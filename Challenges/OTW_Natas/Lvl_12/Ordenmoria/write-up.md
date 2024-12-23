@@ -1,6 +1,6 @@
 Al entrar al nivel vemos el mensaje `Choose a JPEG to upload (max 1KB):` junto con un formulario para subir un archivo, analizando el código vemos que se asigna un nombre de archivo aleatorio con terminación **.jpg** al archivo que subamos.
 
-Cambiando la terminación del archivo podemos ejecutar código arbitrario desde la página, así que cargamos un archivo [script.php]() que muestre el contenido del archivo de contraseña:
+Cambiando la terminación del archivo podemos ejecutar código arbitrario desde la página, así que cargamos un archivo [script.php](https://github.com/IberoGIC/gic-level-2/blob/main/Challenges/OTW_Natas/Lvl_12/Ordenmoria/script.php) que muestre el contenido del archivo de contraseña:
 ```php
 <?php
 passthru("cat /etc/natas_webpass/natas13");
