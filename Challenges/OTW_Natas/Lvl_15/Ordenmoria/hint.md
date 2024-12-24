@@ -1,0 +1,2 @@
+
+¿Cómo podrías verificar si una búsqueda empieza con las letras correctas? Tal vez una consulta con `LIKE` pueda ayudarte. Pero recuerda, a veces las búsquedas no distinguen entre mayúsculas y minúsculas.
