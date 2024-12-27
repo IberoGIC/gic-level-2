@@ -1,0 +1,1 @@
+Aunque se bloquean ciertos caracteres, puedes aprovechar el comportamiento del shell, investiga sobre la **sustitución de comandos**.
