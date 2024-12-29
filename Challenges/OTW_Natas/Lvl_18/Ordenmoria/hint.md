@@ -1,0 +1,1 @@
+El sistema usa un rango limitado de IDs para gestionar las sesiones. Observa cómo se validan estos IDs. Además, puedes usar la opción `?debug=true` en la URL para obtener información sobre el estado de la sesión.
