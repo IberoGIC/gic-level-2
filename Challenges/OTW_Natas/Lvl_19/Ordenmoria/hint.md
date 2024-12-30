@@ -1,0 +1,1 @@
+Observa cómo cambian los IDs de sesión con diferentes usuarios y analiza su formato junto con los caracteres que usan. Quizás puedas encontrar un patrón útil para construir un ID especial.
