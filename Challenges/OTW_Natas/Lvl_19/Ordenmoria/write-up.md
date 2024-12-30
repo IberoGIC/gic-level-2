@@ -41,7 +41,7 @@ def build_admin_session(session_ID):
     return session.encode('utf-8').hex()
 ```
 
-Esto nos permite automatizar la búsqueda mediante un [script](), iterando sobre el rango de sesiones hasta encontrar una con privilegios de administrador.
+Esto nos permite automatizar la búsqueda mediante un [script](https://github.com/IberoGIC/gic-level-2/blob/main/Challenges/OTW_Natas/Lvl_19/Ordenmoria/script.py), iterando sobre el rango de sesiones hasta encontrar una con privilegios de administrador.
 
 ---
 ## **Conclusión**
