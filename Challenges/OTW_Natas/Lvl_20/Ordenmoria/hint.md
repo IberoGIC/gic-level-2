@@ -1,0 +1,1 @@
+Analiza cómo se leen y almacenan los datos en los archivos de sesión . A veces, su formato puede aprovecharse para modificar el contenido.
