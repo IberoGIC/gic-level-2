@@ -1,0 +1,1 @@
+A veces, el navegador no muestra toda la información que el servidor envía. Explora herramientas que te permitan ver la respuesta completa antes de que ocurra una redirección.
